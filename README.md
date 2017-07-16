@@ -9,6 +9,7 @@ SpringBoot+SpringSecurity+Spring data jpa +Thymeleaf
 ### 对于Spring Security
 
 自定义登录页面 可以增加验证字段
+
 自定义权限控制
 对于登录验证，访问控制都是通过自定义的类实现的。
 
